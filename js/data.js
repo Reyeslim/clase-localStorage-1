@@ -3,7 +3,7 @@ const productos = [
     id: 1,
     nombre: "Laptop ProBook 15",
     precio: 899.99,
-    categoria: "Accesorios",
+    categoria: "Portatiles",
     descripcion:
       "Potente portátil con procesador Intel i7, 16GB RAM y SSD 512GB",
     stock: 15,
